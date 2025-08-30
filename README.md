@@ -7,7 +7,7 @@ Zapewnia, że kontenery zawsze działają, a jeśli padną → zostaną uruchomi
 
 1. Pobierz i uruchom instalator:
    ```bash
-   wget https://raw.githubusercontent.com/USER/REPO/main/install-auto-restart.sh
+   wget https://raw.githubusercontent.com/hattimon/auto-restart-docker/main/install-auto-restart.sh
    chmod +x install-auto-restart.sh
    sudo ./install-auto-restart.sh
    ```
